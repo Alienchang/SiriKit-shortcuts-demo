@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SiriService.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TestSiri.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>TestSiriTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>TestSiriUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9BCBE41B21CCDC1500789958</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BCBE43321CCDC1700789958</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BCBE45421CCDC5E00789958</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BE68A0021D09DBF00CEA404</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BE68A1321D0AAB900CEA404</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
